@@ -29,7 +29,7 @@ A simple project to learn about the ReactJS principle.
 
 ```bash
 # Clone this repository
-$ git clone git@github.com: tgmarinho / README-ecoleta.git
+$ git clone https://github.com/bielpatricio/ignite_reactJS_2021.git
 # Access the project folder in your terminal
 $ cd ignite_ReactJS_2021
 # Install the dependencies
